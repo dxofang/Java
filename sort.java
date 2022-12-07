@@ -16,6 +16,6 @@ public class sort {
         {
             System.out.printf("%d ",array[k]);
         }
-
+//a
     }
 }
