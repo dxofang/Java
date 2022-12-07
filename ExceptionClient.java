@@ -22,7 +22,7 @@ public class ExceptionClient {
             System.out.println(e.getMessage());
             return;
         }
-        try {
+        try { //adfsadfsdaf
             queue.get();
         } catch (QueueEmptyException e) {
             System.out.println(e.getMessage());
